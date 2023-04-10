@@ -111,3 +111,6 @@ textarea {
   display: inline;
   flex-direction: column;
 }
+.koikpik {
+  font: 1em sans-serif;
+}
