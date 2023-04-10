@@ -107,3 +107,7 @@ textarea {
     width: 40%;
   }
 }
+.fotis {
+  display: inline;
+  flex-direction: column;
+}
